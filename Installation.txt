@@ -1,0 +1,5 @@
+1. Install Python 3 using Python executable : https://www.python.org/downloads/release/python-364/
+2. Set up Environment Variables,provide Python,pip path location in PATH environment variable
+3. Install Jupyter Notebook:
+	Open CMD-> 
+	python -m pip install jupyter
